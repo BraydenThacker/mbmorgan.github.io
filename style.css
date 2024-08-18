@@ -1,4 +1,12 @@
 .fakeimg {
     height: 200px;
     background: #aaa;
-  }
+}
+
+.wideimg {
+  width: 100%;
+}
+
+.smallimg {
+  width: 800px;
+}
